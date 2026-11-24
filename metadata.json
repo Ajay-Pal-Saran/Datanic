@@ -1,0 +1,6 @@
+{
+  "name": "Prismata — Interactive Data Intelligence & Visualization Workspace",
+  "description": "End-to-end data ingestion, tiered AI data cleaning, D3.js multivariate visualization studio, annotation canvas, and natural language pattern discovery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
